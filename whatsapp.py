@@ -7,6 +7,6 @@ time.sleep(8)
 
 for i in range (25):
     a = random.choice(words)
-    pg.write("i love you baby you are my  "+ a)
+    pg.write("You are "+ a)
     pg.press ('enter')
     
